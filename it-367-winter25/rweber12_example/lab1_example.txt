@@ -1,1 +1,1 @@
-This is an Example of of what the folder structure. As you can see you see my email with EMU as a folder which will show my assignment upload.
+This would include your lab1 code for my review as an example.
